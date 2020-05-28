@@ -1,3 +1,11 @@
+---
+output:
+  html_document: default
+---
+
+## Contrimution to the file.\ 
+The cachematrix.R file was modified following the instruction beelow to give the indverse of the matrix.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
